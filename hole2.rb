@@ -1,5 +1,5 @@
 def rps a
-  w = (0..2).to_a.sample
+  w = [0,1,2].sample
   puts w == a ? 'tie' : w > a ? 'comp wins' : 'you win'
 end
 

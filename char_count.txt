@@ -1,7 +1,11 @@
 hole1: 28
-hole2: 63
-hole3: 61
+hole2: 63, 32?
+hole3: 61, 38?
 hole4: 22
-hole5: 109
+hole5: 107
 hole6: 105
-hole7: 75
+hole7: 73
+hole8: 98
+hole9: 59
+
+total: 616, 562?

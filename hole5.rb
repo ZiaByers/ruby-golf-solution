@@ -4,5 +4,7 @@ def caesar s, o
     s = c.downcase.ord
     s < 97 || s > 122 ? a << c : s + o < 122 ? a << (s + o).chr : a << (s - (26 - o)).chr
   }
-  a.join('')
+  a.join''
 end
+
+puts caesar 'abc', 2
