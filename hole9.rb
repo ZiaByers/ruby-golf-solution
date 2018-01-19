@@ -7,3 +7,5 @@ def list a
   }
   l
 end
+
+puts list ['hello', 'Hello', 'aardvark', 'bungalow', 'king', 'geoff']

@@ -5,7 +5,7 @@ hole4: 22
 hole5: 107
 hole6: 105
 hole7: 73
-hole8: 98
+hole8: 109
 hole9: 59
 
-total: 616, 562?
+total: 627, 573?

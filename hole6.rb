@@ -18,3 +18,5 @@ def substr_count s, b
   }
   puts n
 end
+
+substr_count 'Zach attach', 'ac'

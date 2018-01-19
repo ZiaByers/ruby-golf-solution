@@ -14,3 +14,5 @@ def mixer a
   c << b
   c
 end
+
+puts mixer [['a','b'],['c','d'],['e','f']]
