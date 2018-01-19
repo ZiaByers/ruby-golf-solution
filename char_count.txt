@@ -1,5 +1,7 @@
-hole1: 19
+hole1: 28
 hole2: 63
-hole3: 64
-hole4: 25
-hole5: 112
+hole3: 61
+hole4: 22
+hole5: 109
+hole6: 105
+hole7: 75

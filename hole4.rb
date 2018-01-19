@@ -1,5 +1,5 @@
 def mults n, m
-  m.times do |i|
+  m.times { |i|
     puts n * (i + 1)
-  end
+  }
 end
